@@ -6,7 +6,7 @@ import AddLocationIcon from '@mui/icons-material/AddLocation';
 import SearchBox from './SearchBox';
 import DroneTable from './DroneTable';
 
-const MAPBOX_TOKEN = 'pk.eyJ1IjoiZGVlcGJlbmRhbGUiLCJhIjoiY204ZWMxOXgxMmtzdjJqczVmdm1renNxZyJ9.2SN5xNzK_jLrTQJCD-4zlg';
+const MAPBOX_TOKEN = 'pk.eyJ1IjoiZGVlcGJlbmRhbGUiLCJhIjoiY204ZWtia3R5MDMyejJscXRnbWRrdmhmeiJ9.SO7czTJxKnUtPL4lH4m49g';
 
 const MapComponent = () => {
   const [viewState, setViewState] = useState({
